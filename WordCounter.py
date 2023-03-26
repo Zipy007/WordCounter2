@@ -23,4 +23,4 @@ def analyze():
 
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=666)
+    app.run(host='localhost', port=123)
